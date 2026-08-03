@@ -141,7 +141,7 @@ This starter is open-source software licensed under the
 [Valkyrja url]: https://valkyrja.io
 [framework url]: https://github.com/valkyrjaio/valkyrja-go
 [sindri url]: https://github.com/valkyrjaio/sindri-go
-[ports url]: https://github.com/valkyrjaio/architecture/blob/master/PORTS.md
+[ports url]: https://github.com/valkyrjaio/architecture/blob/26.x/PORTS.md
 [contributing url]: https://github.com/valkyrjaio/.github/blob/26.x/CONTRIBUTING.md
 [vocabulary url]: https://github.com/valkyrjaio/.github/blob/26.x/VOCABULARY.md
 [security vulnerabilities url]: https://github.com/valkyrjaio/.github/blob/26.x/SECURITY.md
