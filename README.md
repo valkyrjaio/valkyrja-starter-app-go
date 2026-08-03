@@ -82,6 +82,10 @@ cmd/
 
 ### Running Your Application
 
+Warning: `cmd/public` and `cmd/bin` arrive with the entry points, and this
+repository holds neither yet. The commands below are what you will run once they
+land.
+
 ```bash
 go run ./cmd/public
 go run ./cmd/bin
