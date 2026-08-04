@@ -7,12 +7,10 @@
 Starter application for building Go applications on the [Valkyrja][Valkyrja url]
 framework.
 
-This repository gives you a working Valkyrja application as a starting point —
-HTTP and CLI entry points pre-wired, example controllers and commands,
-configuration scaffolding, and a ready-to-customize `app` package. The starter
-passes the same formatting, static analysis, and architectural rules as the
-Valkyrja framework itself, so you can focus on building your application rather
-than cleaning up the foundation.
+This repository gives you a working Valkyrja application as a starting point.
+It passes the same formatting, static analysis, and architectural rules as the
+Valkyrja framework itself. You build your application, not the foundation under
+it. The list below names what the repository carries.
 
 <p>
     <a href="https://github.com/valkyrjaio/valkyrja-starter-app-go/blob/26.x/go.mod"><img src="https://img.shields.io/badge/Go-1.26-orange" alt="Go Version"></a>
