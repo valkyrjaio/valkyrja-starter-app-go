@@ -7,10 +7,10 @@
 Starter application for building Go applications on the [Valkyrja][Valkyrja url]
 framework.
 
-This repository gives you a working Valkyrja application as a starting point.
-It passes the same formatting, static analysis, and architectural rules as the
-Valkyrja framework itself. You build your application, not the foundation under
-it. The list below names what the repository carries.
+The complete starter gives you a working Valkyrja application as a starting
+point. It passes the same formatting, static analysis, and architectural rules
+as the Valkyrja framework itself. You build your application, not the foundation
+under it.
 
 <p>
     <a href="https://github.com/valkyrjaio/valkyrja-starter-app-go/blob/26.x/go.mod"><img src="https://img.shields.io/badge/Go-1.26-orange" alt="Go Version"></a>
@@ -34,14 +34,18 @@ in this repository until its own package exists.
 What's in the Box
 -----------------
 
-- **Pre-wired HTTP and CLI entry points** — the application boots and responds to
-  both web requests and command-line invocations out of the box
-- **Example controllers and commands** — working code showing typical routing,
-  request handling, and command dispatch patterns
+Warning: the CI gate is the only item below that this repository holds today.
+`app/` and `cmd/` are both absent, and each remaining item arrives with the
+component it needs.
+
+- **The full CI gate** — the same formatting, static analysis, and coverage
+  rules the framework holds itself to. This item is here now.
+- **Pre-wired HTTP and CLI entry points** — the application boots and answers
+  both web requests and command-line invocations
+- **Example controllers and commands** — working code that shows routing,
+  request handling, and command dispatch
 - **Configuration scaffolding** — an `AppConfig` that the build tool reads, and
   that names the component providers the application registers
-- **The full CI gate** — the same formatting, static analysis, and coverage rules
-  the framework holds itself to
 
 Installation
 ------------
