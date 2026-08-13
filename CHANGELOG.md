@@ -1,6 +1,11 @@
 # Release Notes for 26.x
 
-## [Unreleased](https://github.com/valkyrjaio/project-template-go/compare/v26.0.4...26.x)
+## [Unreleased](https://github.com/valkyrjaio/project-template-go/compare/v26.0.5...26.x)
+
+## [v26.0.5](https://github.com/valkyrjaio/project-template-go/compare/v26.0.4...v26.0.5) - 2026-08-13
+
+* [Workflow] ci: Run the checks on a pull request that targets any branch by [@MelechMizrachi](https://github.com/MelechMizrachi) in https://github.com/valkyrjaio/valkyrja-starter-app-go/pull/17
+* [Dependency] build: Update Go dependencies by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/valkyrja-starter-app-go/pull/19
 
 ## [v26.0.4](https://github.com/valkyrjaio/project-template-go/compare/v26.0.3...v26.0.4) - 2026-08-12
 
