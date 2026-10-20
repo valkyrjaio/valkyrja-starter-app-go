@@ -1,6 +1,10 @@
 # Release Notes for 26.x
 
-## [Unreleased](https://github.com/valkyrjaio/project-template-go/compare/v26.0.20...26.x)
+## [Unreleased](https://github.com/valkyrjaio/project-template-go/compare/v26.0.21...26.x)
+
+## [v26.0.21](https://github.com/valkyrjaio/project-template-go/compare/v26.0.20...v26.0.21) - 2026-10-20
+
+* [Dependency] build: Update Go dependencies by [@valkyrja-volundr](https://github.com/valkyrja-volundr)[bot] in https://github.com/valkyrjaio/valkyrja-starter-app-go/pull/47
 
 ## [v26.0.20](https://github.com/valkyrjaio/project-template-go/compare/v26.0.19...v26.0.20) - 2026-10-18
 
